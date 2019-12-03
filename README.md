@@ -1,0 +1,1 @@
+Webpack Project [![Build Status](https://travis-ci.com/foxslot/JS_HW10_PostsWebpack.svg?branch=master)](https://travis-ci.com/foxslot/JS_HW10_PostsWebpack)
